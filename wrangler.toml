@@ -1,0 +1,11 @@
+name = "my-worker"
+main = "src/index.tsx"
+compatibility_date = "2024-02-22"
+
+kv_namespaces = [
+  { binding = "TALK", preview_id = "9781a508a9f74231ae2069bb80471e35", id = "070ce94e936e4755a233c7673a92fd9a" }
+]
+
+
+
+
